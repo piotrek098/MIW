@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
+//blablabla
 public class NeuronSiec
 {
     static Random random = new Random();
