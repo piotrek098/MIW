@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 
 //blablabla
+
+//działa
 public class NeuronSiec
 {
     static Random random = new Random();
